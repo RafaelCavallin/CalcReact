@@ -70,4 +70,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Teste do Git Kraken
 
 Testando.
+<<<<<<< HEAD
 Olha aqui!
+=======
+
+### Teste 2 do Git Kraken
+
+Testando 2.
+>>>>>>> master
